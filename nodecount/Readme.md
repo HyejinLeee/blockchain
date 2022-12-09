@@ -2,7 +2,7 @@
 
 - '파이썬으로 배우는 블록체인 구조와 이론' 책의 code 를 참고하였습니다.
 
-```
+```python
 import requests
 import time
 import matplotlib.pyplot as plt
